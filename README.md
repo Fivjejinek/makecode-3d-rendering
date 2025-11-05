@@ -1,26 +1,9 @@
- 
-
-
-> Open this page at [https://fivjejinek.github.io/3d-renderer/](https://fivjejinek.github.io/3d-renderer/)
-
-## Use as Extension
-
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/fivjejinek/3d-renderer** and import
-
-## Edit this project
-
-To edit this repository in MakeCode.
-
-* open [https://arcade.makecode.com/](https://arcade.makecode.com/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/fivjejinek/3d-renderer** and click import
-
-#### Metadata (used for search, rendering)
-
-* for PXT/arcade
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+# How to use:
+arcade.makecode.com
+click import
+<img width="725" height="339" alt="image" src="https://github.com/user-attachments/assets/ab419952-77d1-46bf-bb24-7df18d62d45d" />
+click import url
+<img width="722" height="415" alt="image" src="https://github.com/user-attachments/assets/56a13ed1-741a-4dcf-b4fb-f2952e0c04d9" />
+paste https://github.com/Fivjejinek/makecode-3d-rendering
+click go ahead
+have fun!
